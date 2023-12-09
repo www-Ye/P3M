@@ -1,5 +1,5 @@
 # P3M
-Code for paper [A Positive-Unlabeled Metric Learning Framework for Document-Level Relation Extraction with Incomplete Labeling].
+Code for AAAI 2024 Conference paper [A Positive-Unlabeled Metric Learning Framework for Document-Level Relation Extraction with Incomplete Labeling].
 
 ## Requirements
 * Python (tested on 3.6.7)
